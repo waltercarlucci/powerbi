@@ -1,2 +1,0 @@
-# powerbi
-powerbi report sampel
